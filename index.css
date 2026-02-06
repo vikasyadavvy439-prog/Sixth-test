@@ -14,3 +14,18 @@
     padding: 20px;
 }
 
+#thirdBox{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#fourthBox{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    margin: 20px;
+    padding: 20px;
+}
